@@ -3,15 +3,28 @@ These data are the results of a chemical analysis of wines grown in the same reg
 The attributes are:
 
 Alcohol
+
 Malic acid
+
 Ash
+
 Alcalinity of ash
+
 Magnesium
+
 Total phenols
+
 Flavanoids
+
 Nonflavanoid phenols
+
 Proanthocyanins
+
 Color intensity
+
 Hue
+
 OD280/OD315 of diluted wines
+
 Proline
+
